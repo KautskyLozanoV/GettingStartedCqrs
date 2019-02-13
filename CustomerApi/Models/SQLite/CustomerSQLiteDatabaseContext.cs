@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace GettingStartedCQRS.Models.SQLite
+namespace CustomerApi.Models.SQLite
 {
     public class CustomerSQLiteDatabaseContext : DbContext
     {

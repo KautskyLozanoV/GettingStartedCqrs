@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace GettingStartedCQRS.Migrations
+namespace CustomerApi.Migrations
 {
     public partial class CreateDatabase : Migration
     {

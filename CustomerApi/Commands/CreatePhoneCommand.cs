@@ -1,8 +1,8 @@
-﻿namespace GettingStartedCQRS.Models.SQLite
+﻿using CustomerApi.Models;
+namespace CustomerApi.Commands
 {
-    public class PhoneRecord
+    public class CreatePhoneCommand : Command
     {
-        public long Id { get; set; }
         public PhoneType Type { get; set; }
         public int AreaCode { get; set; }
         public int Number { get; set; }

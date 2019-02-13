@@ -1,4 +1,4 @@
-﻿namespace GettingStartedCQRS.Models.SQLite
+﻿namespace CustomerApi.Models
 {
     public enum PhoneType
     {

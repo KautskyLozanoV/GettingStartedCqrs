@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace GettingStartedCQRS.Models.SQLite
+namespace CustomerApi.Models.SQLite
 {
     public class CustomerRecord
     {
